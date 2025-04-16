@@ -1,0 +1,62 @@
+/* General styles  */
+/* reset settings   */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+a,
+a:link,
+a:visited {
+  text-decoration: none;
+
+}
+
+:root {
+    /*General colors  */
+  --primary-color: #ff6347;
+  --secondary-color: #4caf50;
+  --background-color: #f0f0f0;
+
+  /* text colors  */
+  --primary-text-color: #333;
+
+  /* warning info and error colors  */
+    --warning-color: #ff9800;
+    --info-color: #2196f3;
+    --error-color: #f44336;
+    --success-color: #4caf50;
+    --warning-bg-color: #fff3cd;
+    --info-bg-color: #d1ecf1;
+    --error-bg-color: #f8d7da;
+    --success-bg-color: #d4edda;
+
+    /* form colors  */
+    --form-bg-color: #fff;
+    --form-border-color: #ccc;
+    --form-border-radius: 4px;
+    --form-padding: 10px;
+    --form-margin: 10px;
+    --form-font-size: 16px;
+    --form-font-family: Arial, sans-serif;
+    --form-font-weight: normal;
+    --form-text-color: #333;
+    --form-placeholder-color: #999;
+    --form-focus-border-color: #007bff;
+    --form-focus-bg-color: #fff;
+    --form-focus-text-color: #333;
+    --form-focus-placeholder-color: #999;
+    --form-focus-box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+    --form-focus-transition: all 0.3s ease-in-out;
+    --form-focus-transform: translateY(-2px);
+    --form-focus-transform-transition: all 0.3s ease-in-out;
+
+}
+
+/* Main style  */
+
