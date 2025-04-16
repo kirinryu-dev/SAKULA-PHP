@@ -16,3 +16,6 @@ project-root/
 ## NB 
 - as a joke SAKULA here is solidity.
 
+## While trying php inner-working 
+- add methode to create smart contract 
+
